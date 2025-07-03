@@ -103,7 +103,7 @@ Password: password
 ##👨‍💻 Author
 = H.M.Madhushanka Herath Kumara 
 
-GitHub: @mashushanka
+GitHub: https://github.com/Mherath05
 Email: madhushankaherath2@gmail.com
 
 #📞 Support
